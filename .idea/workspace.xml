@@ -59,6 +59,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.1">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
@@ -183,6 +186,7 @@
   </component>
   <component name="ProjectId" id="2dmQF8y2M2i14wu9nAfcC08NxAB" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bin/php/php8.1.13/php.exe" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -237,7 +241,7 @@
       <workItem from="1710610668603" duration="5722000" />
       <workItem from="1710690539116" duration="10134000" />
       <workItem from="1710776510807" duration="5209000" />
-      <workItem from="1710951706838" duration="7430000" />
+      <workItem from="1710951706838" duration="7580000" />
     </task>
     <servers />
   </component>
